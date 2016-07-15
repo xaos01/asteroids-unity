@@ -1,4 +1,4 @@
 asteroids-unity
 ===============
 
-An Asteroids (Atari, 1979) clone made in Unity 3D as a learning experience.
+An Atari Asteroids (1979) clone made with Unity 3D as a learning experience.

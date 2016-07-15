@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: dcfe3236dd9774388b09946f39dca823
+timeCreated: 1468226213
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - GameController: {instanceID: 0}
+  - AsteroidController: {instanceID: 0}
+  - Explosion: {fileID: 181870, guid: 85a58f49e9103419f8771957e849e481, type: 2}
+  - ChildAsteroid: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
